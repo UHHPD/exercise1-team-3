@@ -17,6 +17,3 @@ int main() {
   fout.close(); // close the files
 }
 
-// for index, element in enumerate(some_iterable):
-//  do somthing with the element
-//  use index
