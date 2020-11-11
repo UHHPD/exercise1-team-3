@@ -8,7 +8,7 @@ int main() {
   ifstream fin("daten.txt"); // read file daten.txt with the fstream lib
   ofstream fout("datensumme.txt"); // create output.txt
   int a, b;
-  for (int i; i < 234; i++) { // loop over the lines of fin
+  for (int i=0; i < 234; i++) { // loop over the lines of fin
     fin >> a;
     fin >> b;
     int result = a + b;
