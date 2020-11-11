@@ -12,8 +12,8 @@ int main() {
     fin >> a;
     fin >> b;
     int result = a + b;
-    cout << result << endl; // print result
-    fout << endl << result;// << endl; // store the summ of a and b in fout
+    //cout << result << endl; // print result
+    fout << result;// << endl; // store the summ of a and b in fout
     /*
     Set linebreak accoring to the testfile!
     */
