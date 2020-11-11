@@ -13,7 +13,7 @@ int main() {
     fin >> b;
     int result = a + b;
     cout << result << endl; // print result
-    fout << result << endl; // store the summ of a and b in fout
+    fout << result; // store the summ of a and b in fout
     if (i != 233) {
       fout << "\r\n";
     }
