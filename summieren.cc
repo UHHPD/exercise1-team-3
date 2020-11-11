@@ -11,9 +11,9 @@ int main() {
   for (int i; i < 234; i++){ // loop over the lines of fin
     fin >> a;
     fin >> b;
-    fout << a + b // store the summ of a and b in fout
-    if i != 232: {
-      fout << "\r\n"
+    fout << a + b; // store the summ of a and b in fout
+    if (i != 233) {
+      fout << "\r\n";
     }
     /*
     Set linebreak accoring to the testfile!
