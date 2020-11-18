@@ -63,5 +63,8 @@ int main() {
   double var_mean = var_mean_total / 26.;
 
   cout << mean_mean << endl;
-  cout << var_mean * (9. / 8.) << endl;
+  cout << var_mean << endl;
 }
+
+
+//2.4359
